@@ -1,0 +1,31 @@
+5_Data_Sets_links:
+
+Nifty 50 index (NIFTY50)
+link_https://au.investing.com/indices/s-p-cnx-nifty-historical-data
+
+Nifty Pharma index (NIPHARM)
+LINK_https://au.investing.com/indices/cnx-pharma-historical-data
+
+===================================================================
+includes the following top 3 pharmaceutical companies:
+===================================================================
+1-Cipla Ltd.
+Stock Symbol: CIPLA
+link_https://au.investing.com/equities/cipla-historical-data
+
+2-Dr. Reddy's Laboratories Ltd.
+Stock Symbol: DRREDDY
+link_https://au.investing.com/equities/dr-reddys-laboratories-historical-data
+
+3-Sun Pharmaceutical Industries Ltd.
+Stock Symbol: SUNPHARMA
+link_https://au.investing.com/equities/sun-pharma-advanced-research-historical-data
+
+======================================================================
+3 business questions
+======================================================================
+
+1- Cipla stock forecasting using orange and exploratory software
+2- Find correlation coefficient of Cipla with nifty 50 and nifty pharma using excel
+3- Above top 3 pharma stock correlation coefficient with nifty 50 and nifty pharma
+
